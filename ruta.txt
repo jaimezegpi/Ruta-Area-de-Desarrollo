@@ -1,0 +1,43 @@
+Objetivos Área.
+
+1.- Desarrollar soluciones de calidad atingentes a los tiempos actuales, tanto para clientes como para el uso interno.
+
+Analizar, diseñar, programar, implementar, evaluar, documentar y mantener permanentemente todos los procesos automatizados que se operan en los proyectos realizados por LoftDigital, así como garantizar el buen funcionamiento de estos procesos, tomando las acciones necesarias mínimas en caso de eventos e interrupciones.
+
+Desarrollar e implementar los sistemas de información que requiere LoftDigital para automatizar sus procesos, además actualizar y mantener en buen funcionamiento aquellos que están en producción.
+
+
+2.- Ser un aporte para el proceso de digitalización constante de la empresa
+
+Asistir en el uso de los sistemas de información a los demás miembros del equipo que asi lo necesiten. Apoyando en el proceso constante de digitalización de la empresa. ya sea presencial o telemáticamente.
+
+Participar activamente de las reuniones laborales y proponer ideas para el mejoramiento de los desarrollos y demás propuestas en el uso y capacitación interna de todo el equipo.
+
+
+3.- Ser un área actualizada en el acontecer de la informática y estar al día con tendencias de flujos de trabajo y herramientas.
+
+Estar al día en los conocimientos de la materia que nos compete y sea necesaria para la realización de nuestra tarea. Esto por medio de Cursos, Capacitaciones y estudios personales.
+
+
+4.- Mantener Estadísticas confiables de trabajo de cada proyecto.
+
+Mantener al día el estado de las tareas asignadas e ingresar aquellas que no se hayan ingresado formalmente.
+
+
+Ruta General
+
+1.- Certificar conocimientos básicos de Seguridad Informática y Digitalización.
+  - Seguridad informática.
+  - Manejo de Herramientas necesarias para la interacción con los demás integrantes.
+  - Conocimientos básicos de metodologías de trabajo. 
+    - Lean UX
+    - Agile y Lineal
+
+2.- Certificación básica de conocimientos.
+  - Html, Css, Javascript, Php, Armado de mail
+
+3.- Certificación Desarrollo en wordpress.
+
+4.- Certificación en desarrollo frontEnd para desktop, mobile y apps en React y Node.
+
+5.- Capacitación constante e iteración de actualización de este flujo
