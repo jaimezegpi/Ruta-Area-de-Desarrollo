@@ -1,33 +1,33 @@
-Objetivos Área.
+I.- OBJETIVOS DEL ÁREA.
 
 1.- Estar actualizada en el acontecer de la informática y estar al día con tendencias de flujos de trabajo y herramientas.
 
-Renovar constantemente los conocimientos de la materia que nos compete y sea necesaria para la realización de nuestra tarea. Esto por medio de Cursos, Capacitaciones y estudios personales.
+  Renovar constantemente los conocimientos de la materia que nos compete y sea necesaria para la realización de nuestra tarea. Esto por medio de Cursos, Capacitaciones y estudios personales.
 
-Participar de la implementación en laboratorio de los conocimientos experimentales obtenidos con contenido lúdico y accesible para todos.
+  Participar de la implementación en laboratorio de los conocimientos experimentales obtenidos con contenido lúdico y accesible para todos.
 
 
 2.- Desarrollar soluciones con estándares de calidad atingentes a los tiempos actuales, tanto para clientes como para el uso interno.
 
-Analizar, diseñar, programar, implementar, post evaluar, documentar y mantener permanentemente todos los procesos automatizados que se operan en los proyectos realizados por la empresa, así como garantizar el buen funcionamiento de estos procesos, tomando las acciones necesarias mínimas en caso de eventos e interrupciones.
+  Analizar, diseñar, programar, implementar, post evaluar, documentar y mantener permanentemente todos los procesos automatizados que se operan en los proyectos realizados por la empresa, así como garantizar el buen funcionamiento de estos procesos, tomando las acciones necesarias mínimas en caso de eventos e interrupciones.
 
-Desarrollar e implementar los sistemas de información que requiere LoftDigital para automatizar sus procesos, además actualizar y mantener en buen funcionamiento aquellos que están en producción.
+  Desarrollar e implementar los sistemas de información que requiere LoftDigital para automatizar sus procesos, además actualizar y mantener en buen funcionamiento aquellos que están en producción.
 
 
 3.- Que todos los integrantes sean promotores para el proceso de digitalización constante de la empresa.
 
-Asistir y capacitar en el uso de los sistemas de información a los miembros del equipo que asi lo necesiten. Apoyando en el proceso de digitalización de la empresa. ya sea presencial o telemáticamente.
+  Asistir y capacitar en el uso de los sistemas de información a los miembros del equipo que asi lo necesiten. Apoyando en el proceso de digitalización de la empresa. ya sea presencial o telemáticamente.
 
-Participar activamente de las reuniones laborales y proponer ideas para el mejoramiento y actualización de los desarrollos implementados en la empresa.
+  Participar activamente de las reuniones laborales y proponer ideas para el mejoramiento y actualización de los desarrollos implementados en la empresa.
 
 
 4.- Mantener Estadísticas confiables de trabajo de cada proyecto.
 
-Mantener al día el estado de las tareas asignadas e ingresar aquellas que no se hayan ingresado formalmente.
+  Mantener al día el estado de las tareas asignadas e ingresar aquellas que no se hayan ingresado formalmente.
 
 
 
-Ruta General
+II.- RUTA GENERAL.
 
 1.- Adquirir conocimientos básicos de metodologias de trabajo, seguridad informática y digitalización.
   - Seguridad informática.
@@ -61,7 +61,7 @@ Ruta General
 5.- Capacitación constante e iteración de actualización de este flujo
 
 
-REQUISITOS
+III.- REQUISITOS.
 
 1.- Contar con los equipos, plataformas y programas adecuados para el normal desarollo de la actividad.
   - Equipo Físico para desarrollar acorde con las exigencias actuales. 
@@ -70,18 +70,33 @@ REQUISITOS
 
 
 2.- Contar con un laboratorio de desarrollo básico para el testeo y desarrollo de las implementaciones que sean solicitadas.
-    ( Equipos de testeo, Mobiles Android y Mac para testear funcionalidades )
+    ( Equipos de testeo, Mobiles Android y Mac para testear funcionalidades, usuarios dispuestos a hacer QA )
 
 3.- Tener acceso a una plataforma de aprendizaje y capacitación.
     ( Ejemplo Platzi, Udemi, CoderHouse )
 
 4.- Contar con la posibilidad de acceder a certificaciones en las áreas requeridas por la empresa.
 
-CRECIMIENTO
 
-0.- Empresa: 
+IV.- CRECIMIENTO.
+
+0.- Empresa
+
   - Cultura: Se debe establecer la cultura que ha de perseguir.
-  - Objetivos: Se deben establecer los objetivos donde se va a apuntar.
+
+    #keeprowing, #esposible, #saythingsastheyare, #alwayspeoplefirst, #havefun
+
+    Referencia:
+    Orientadas al poder: existe un fuerte control directivo, con una estructura muy jerárquica y piramidal. Suele estar todo muy planificado y con poco margen para nuevas propuestas o cambios de rumbo.
+
+    Orientadas a la función: estas empresas suelen estar más planificadas que las anteriores, aunque están muy estructuradas y basadas en normas, métodos y procedimiento de “siempre se ha hecho así”. Además, suelen tener un exceso de burocracia interna.
+
+    Orientadas a la tarea: al contrario que las anteriores, estas están muy enfocadas a objetivos (más que en las propias normas y métodos). Están centradas en la eficacia y suelen tener estructuras más participativas. Las personas son valiosas para la empresa y no un peón reemplazable.
+
+    Orientadas a las personas: se tienen muy en cuenta los valores personales, los beneficios para los empleados y su propio desarrollo. Este tipo de cultura corporativa se suele decir que es temporal ya que dicen (probablemente los de las dos primeras), que no es sostenible.
+
+  - Objetivos: Se deben establecer los objetivos donde va a apuntar la organización.
+
   - Exigencias: Dejar en claro que se espera de cada miembro.
                 - Compromiso
                 - Comportamiento
@@ -95,16 +110,15 @@ CRECIMIENTO
     ( Ej. Horas de capacitación asignadas e irrenunciables durante días y horas específicas de la semana )
   e.- Fomentar actividades y comportamientos saludables, como por ejemplo el consumo de frutas.
 
-
     Resumen de beneficios que se desean obtener del punto:
 
-    Fomenta el buen ambiente laboral
-    Promueve la participación activa de los empleados y departamentos
-    Ayuda a mejorar el estilo de vida de los trabajadores
-    Promueve la salud laboral
-    Incrementa la motivación y el entusiasmo
+    Fomentar el buen ambiente laboral
+    Promover la participación activa de los empleados y departamentos
+    Ayudar a mejorar el estilo de vida de los trabajadores
+    Promver la salud laboral
+    Incrementar la motivación y el entusiasmo
     Crea un mayor vínculo entre el trabajador y la empresa
-    Disminuye el estrés
+    Disminuir el estrés
 
 2.- Profesional: Muy ligado con el crecimiento personal ( Desarrollar el talento ).
   a.- Tiempos de Reflexión Estratégica. Una programación clara para permitir la generación de estratégias para el desarrollo de las funciones de la empresa.
@@ -112,8 +126,8 @@ CRECIMIENTO
   c.- Tiempos de Retrospectiva, fomentando lo bueno y mejorando lo perfeccionable. Analizando faltas y proponiendo soluciones.
   d.- Establecer instancias de crecimiento ya sea por objetivo o por tiempo. Por ejemplo beneficios por años en la empresa para fomentar la estadía, Beneficios por Estudios como apoyar en las instancias privadas de capacitación relacionadas con la actividad de la empresa.
 
- 3.- Económico: Ligado directamente con al permanencia en el puesto de trabajo.
+3.- Económico: Ligado directamente con al permanencia en el puesto de trabajo y disminuir depósito.
   a.- Establecer un sistema de mejora contínuo ya sea por tiempo, por objetivos medibles, por logros o una combinación de todos. Esta ha de ser muy clara y definida.
   b.- Abrir las instancias de acercamiento de los individuos para representar sus casos particulares.
-  
 
+El presente es un documento en desarrollo y corrección continua. Irá madurando en el camino.
