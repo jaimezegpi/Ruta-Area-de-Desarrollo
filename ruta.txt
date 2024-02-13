@@ -1,3 +1,145 @@
+RUTERO
+( Propuesta 2024-3797   )
+
+
+Estas son bases de carácter general que debieran servir de guia en la implementación coordinada de soluciones específicas de cada Área.
+
+El presente es un documento en desarrollo y corrección continua que en desarrollo hemos ido creando con presentaciones, conversaciones en reuniones y de más de Max, Pia, y todos los integrantes y exIntegrantes especialmente en los flujos de comunicación bajados por Pia. 
+Irá madurando en el camino.
+
+X.- INTEGRAL Y GENERAL	2
+X.I.- BASE	2
+X.II.- CRECIMIENTO.	2
+0.- Empresa	3
+1.- Personal	3
+2.- Profesional	4
+3.- Económico	5
+I.- COMERCIAL	6
+II.- DISEÑO	7
+III.- DESARROLLO	8
+I.- OBJETIVOS DEL ÁREA.	8
+II.- RUTA GENERAL.	9
+III.- REQUISITOS.	9
+
+
+
+
+
+–0–
+
+
+
+X.- INTEGRAL Y GENERAL
+
+X.I.- BASE
+
+En el presente NO se establecen sistemas específicos de flujo ni metodologías individuales de trabajo por área. 
+
+SI, se recomienda adoptar una metodología general uniforme de flujo de información, conceptualmente definida. ( La propuesta es el sistema Business Model Canvas, Metodología dinámica y adaptable a Pequeñas organizaciones que empiezan a Digitalizarse. Es importante tener en cuenta que sólo es una propuesta. )
+
+
+0.- Objetivo principal de inicio es definir las bases y objetivos generales.( ya luego se podrán establecer  las ritualidades necesarias para el cumplimiento de metas mínimas deseadas como Dailys, Retrospectives, etc… ) .
+
+1.- Adquirir conocimientos básicos de metodologías de trabajo, seguridad informática y digitalización.
+  Seguridad informática.
+  Manejo de Herramientas necesarias para la interacción con los demás integrantes.
+Uso de los equipos asignados.
+Manejo de credenciales propias para acceder a las aplicaciones de uso recurrente ( cuentas de equipo, Gmail, WebMail, DropBox, etc./. ).
+Uso de aplicaciones puente entre áreas ( Herramientas de gestión y diseño como figma, Slack, Moca, Kanban, Trello, Business Model Canvas etc... )
+  - Conocimientos básicos de metodologías de trabajo ( Kanban, LeanUx, etc.. ).
+Lean UX
+Agile y Lineal tipo GANTT ( híbrido )
+
+2.- Adquirir metodologías de trabajo que incentiven la estructuración y principalmente el registro de actividades para posibilitar la medición y control de actividades.
+
+X.II.- CRECIMIENTO.
+
+0.- Empresa
+
+  - Cultura: Se debe establecer la cultura que se ha de perseguir.
+
+    #keeprowing, #esposible, #saythingsastheyare, #alwayspeoplefirst, #havefun
+
+    Referencia:
+    Orientadas al poder: existe un fuerte control directivo, con una estructura muy jerárquica y piramidal. Suele estar todo muy planificado y con poco margen para nuevas propuestas o cambios de rumbo.
+
+    Orientadas a la función: estas empresas suelen estar más planificadas que las anteriores, aunque están muy estructuradas y basadas en normas, métodos y procedimiento de “siempre se ha hecho así”. Además, suelen tener un exceso de burocracia interna.
+
+    Orientadas a la tarea: al contrario que las anteriores, estas están muy enfocadas a objetivos (más que en las propias normas y métodos). Están centradas en la eficacia y suelen tener estructuras más participativas. Las personas son valiosas para la empresa y no un peón reemplazable.
+
+    Orientadas a las personas: se tienen muy en cuenta los valores personales, los beneficios para los empleados y su propio desarrollo. Este tipo de cultura corporativa se suele decir que es temporal ya que dicen (probablemente los de las dos primeras), que no es sostenible.
+
+  - Objetivos: Se deben establecer los objetivos donde va a apuntar la organización.
+  - Exigencias: Dejar en claro que se espera de cada miembro.
+- Compromiso
+- Comportamiento
+- Responsabilidad
+
+* Comentario del autor ( don Jaime ): Las descripciones anteriores no son islas, se pueden mezclar como los colores. Podemos ser una empresa Orientada hacia las personas con un acento en control de tareas, cuidando la funcionalidad y estructuradas con un esquema directivo.
+
+1.- Personal
+Cultivar su crecimiento personal es de vital importancia para estar en sintonía con una cultura que persigue la empresa.
+
+  a.- Se requiere que se establezcan objetivos y retos claros a corto y mediano plazo. Estos deben ser CLAROS, VIABLES y MEDIBLES.
+
+  b.- La posibilidad de resolver los problemas de accesibilidad, conexión y ejecución permitiendo actividades como el teletrabajo cuando sea posible para coordinar la resolución de los problemas típicos del hogar con el trabajo.
+
+  c.- Se requieren instancias para el reconocimiento de los esfuerzos realizados. Ya sea por el reconocimiento explícito como premiando los logros mejorando la satisfacción y motivación.
+
+  d.- Se requieren instancias formales de mejora personal como capacitaciones, cursos, etc.. reconocidos y realizados como parte de la jornada laboral otorgando el espacio necesario para que ello suceda.
+
+    ( Ej. Horas de capacitación asignadas e irrenunciables durante días y horas de la semana)
+
+  e.- Fomentar actividades y comportamientos saludables, como por ejemplo el consumo de frutas, descansos de ejercicio, actividades de interacción para precaver roses.
+
+    Resumen de beneficios que se desean podrían obtener de la aplicación del punto:
+
+   Buen ambiente laboral
+    Participación activa de los empleados y departamentos
+    Mejora el estilo de vida de los trabajadores
+    Salud laboral
+    Incrementar la motivación y el entusiasmo
+    Crea un mayor vínculo entre el trabajador y la empresa
+    Disminuir el estrés
+
+2.- Profesional
+Muy ligado con el crecimiento personal ( Desarrollar el talento ).
+
+  a.- Tiempos de Reflexión Estratégica. Una programación clara para permitir la generación de estratégias para el desarrollo de las funciones de la empresa.
+
+  b.- Objetivos claros a alcanzar SMART (Específicos, Medibles, Alcanzables, Relevantes y Basados en el Tiempo): como por ejemplo obtener una certificación cada 3 meses desarrollando constancia y metodologías. No atrasar entregas durante X tiempo para fomentar la constancia, etc..
+
+  c.- Tiempos de Retrospectiva, fomentando lo bueno y mejorando lo perfeccionable. Analizando faltas y proponiendo soluciones.
+
+  d.- Establecer instancias de crecimiento ya sea por Objetivos, Aportes o por Confianza y Adhesión ( Tiempo y Permanencia ). Por ejemplo beneficios por años en la empresa para fomentar la estadía, Beneficios por Estudios como apoyar en las instancias privadas de capacitación relacionadas con la actividad de la empresa.
+
+3.- Económico
+Ligado directamente con al permanencia en el puesto de trabajo y disminuir el desestimiento y abandono.
+
+  a.- Establecer un sistema de mejora contínuo ya sea por tiempo, por objetivos medibles, por logros o una combinación de todos. Esta ha de ser muy clara y definida.
+
+  b.- Abrir las instancias de acercamiento de los individuos para representar sus casos particulares.
+
+
+–0–
+
+
+
+
+I.- COMERCIAL
+
+
+
+—0—
+
+II.- DISEÑO
+
+
+
+–0–
+
+III.- DESARROLLO
+
 I.- OBJETIVOS DEL ÁREA.
 
 1.- Estar actualizada en el acontecer de la informática y estar al día con tendencias de flujos de trabajo y herramientas.
@@ -16,7 +158,7 @@ I.- OBJETIVOS DEL ÁREA.
 
 3.- Que todos los integrantes sean promotores para el proceso de digitalización constante de la empresa.
 
-  Asistir y capacitar en el uso de los sistemas de información a los miembros del equipo que asi lo necesiten. Apoyando en el proceso de digitalización de la empresa. ya sea presencial o telemáticamente.
+  Asistir y capacitar en el uso de los sistemas de información a los miembros del equipo que así lo necesiten. Apoyando en el proceso de digitalización de la empresa. ya sea presencial o telemáticamente.
 
   Participar activamente de las reuniones laborales y proponer ideas para el mejoramiento y actualización de los desarrollos implementados en la empresa.
 
@@ -29,36 +171,26 @@ I.- OBJETIVOS DEL ÁREA.
 
 II.- RUTA GENERAL.
 
-1.- Adquirir conocimientos básicos de metodologias de trabajo, seguridad informática y digitalización.
-  - Seguridad informática.
-  - Manejo de Herramientas necesarias para la interacción con los demás integrantes.
-    - Uso de los equipos asignados.
-    - Manejo de credenciales propias para acceder a las aplicaciones de uso recurrente ( cuentas de equipo, Gmail, WebMail, DropBox, etc./. ).
-    - Uso de aplicaciones puente entre áreas ( Herramientas de diseño como figma, Slack, Moca, Kanban, Bussines Model Canvas etc... )
-  - Conocimientos básicos de metodologías de trabajo ( Kanban, LeanUx, etc.. ).
-    - Lean UX
-    - Agile y Lineal tipo GANTT ( híbrido )
-
-2.- Certificación básica de conocimientos.
-  - Ofimática básica, con acento en Excel
-  - GIT y versionado
-  - Diseño Html
-  - Css
-  - Javascript
-  - Armado de mails
-  - Php
-  - SQL
-  - Demás segun necesidad de desarrollo
+1.- Certificación básica de conocimientos.
+  Ofimática básica, con acento en Excel
+  GIT y versionado
+  Diseño Html
+  Css
+  Javascript
+  Armado de mails
+  Php
+  SQL
+  Demás según necesidad de desarrollo
 
 
-3.- Certificación Desarrollo en wordpress.
-  - Administración
-  - Creación de Plantillas
-  - Creación de plugins
+2.- Certificación Desarrollo en wordpress.
+  Administración
+  Creación de Plantillas
+  Creación de plugins
 
-4.- Certificación en desarrollo mobile y web apps con base en React, Node y Apache PhoneGap.
+3.- Certificación en desarrollo mobile y web apps con base en React, Node y Apache PhoneGap.
 
-5.- Capacitación constante e iteración de actualización de este flujo
+4.- Capacitación constante e iteración de actualización de este flujo
 
 
 III.- REQUISITOS.
@@ -70,7 +202,7 @@ III.- REQUISITOS.
 
 
 2.- Contar con un laboratorio de desarrollo básico para el testeo y desarrollo de las implementaciones que sean solicitadas.
-    ( Equipos de testeo, Mobiles Android y Mac para testear funcionalidades, usuarios dispuestos a hacer QA )
+    ( Equipos de testeo, Móviles Android y Mac para testear funcionalidades, usuarios dispuestos a hacer QA )
 
 3.- Tener acceso a una plataforma de aprendizaje y capacitación.
     ( Ejemplo Platzi, Udemi, CoderHouse )
@@ -78,56 +210,12 @@ III.- REQUISITOS.
 4.- Contar con la posibilidad de acceder a certificaciones en las áreas requeridas por la empresa.
 
 
-IV.- CRECIMIENTO.
 
-0.- Empresa
 
-  - Cultura: Se debe establecer la cultura que ha de perseguir.
+–0–
 
-    #keeprowing, #esposible, #saythingsastheyare, #alwayspeoplefirst, #havefun
 
-    Referencia:
-    Orientadas al poder: existe un fuerte control directivo, con una estructura muy jerárquica y piramidal. Suele estar todo muy planificado y con poco margen para nuevas propuestas o cambios de rumbo.
 
-    Orientadas a la función: estas empresas suelen estar más planificadas que las anteriores, aunque están muy estructuradas y basadas en normas, métodos y procedimiento de “siempre se ha hecho así”. Además, suelen tener un exceso de burocracia interna.
 
-    Orientadas a la tarea: al contrario que las anteriores, estas están muy enfocadas a objetivos (más que en las propias normas y métodos). Están centradas en la eficacia y suelen tener estructuras más participativas. Las personas son valiosas para la empresa y no un peón reemplazable.
 
-    Orientadas a las personas: se tienen muy en cuenta los valores personales, los beneficios para los empleados y su propio desarrollo. Este tipo de cultura corporativa se suele decir que es temporal ya que dicen (probablemente los de las dos primeras), que no es sostenible.
-
-  - Objetivos: Se deben establecer los objetivos donde va a apuntar la organización.
-
-  - Exigencias: Dejar en claro que se espera de cada miembro.
-                - Compromiso
-                - Comportamiento
-                - Responsabilidad
-
-1.- Personal: cultivar su crecimiento personal es de vital importancia para estar en sintonía con una cultura que persigue la empresa.
-  a.- Se requiere que se establescan objetivos y retos claros a corto y mediano plazo. Estos deben ser CLAROS, VIABLES y MEDIBLES.
-  b.- La posibilidad de resolver los problemas de accesibilidad, conexión y ejecución permitiendo actividades como el teletrabajo cuando sea posible para coordinar la resolución de los problemas típicos del hogar con el trabajo.
-  c.- Se requieren instancias para el reconocimiento de los esfuerzos realizados. Ya sea por el reconocimiento explícito como premieando los logros mejorando la satisfacción y motivación.
-  d.- Se requieren instancias formales de mejora personal como capacitaciones, cursos, etc.. reconocidos y realizados como parte de la jornada laboral otorgando el espacio necesario para que ello suceda.
-    ( Ej. Horas de capacitación asignadas e irrenunciables durante días y horas específicas de la semana )
-  e.- Fomentar actividades y comportamientos saludables, como por ejemplo el consumo de frutas.
-
-    Resumen de beneficios que se desean obtener del punto:
-
-    Fomentar el buen ambiente laboral
-    Promover la participación activa de los empleados y departamentos
-    Ayudar a mejorar el estilo de vida de los trabajadores
-    Promver la salud laboral
-    Incrementar la motivación y el entusiasmo
-    Crea un mayor vínculo entre el trabajador y la empresa
-    Disminuir el estrés
-
-2.- Profesional: Muy ligado con el crecimiento personal ( Desarrollar el talento ).
-  a.- Tiempos de Reflexión Estratégica. Una programación clara para permitir la generación de estratégias para el desarrollo de las funciones de la empresa.
-  b.- Objetivos claros a alcanzar SMART (Específicos, Medibles, Alcanzables, Relevantes y Basados en el Tiempo): como por ejemplo obtener una certificación cada 3 meses desarrollando constancia y metodologías. No atrasar entregas durante X tiempo para fomentar la constancia, etc..
-  c.- Tiempos de Retrospectiva, fomentando lo bueno y mejorando lo perfeccionable. Analizando faltas y proponiendo soluciones.
-  d.- Establecer instancias de crecimiento ya sea por objetivo o por tiempo. Por ejemplo beneficios por años en la empresa para fomentar la estadía, Beneficios por Estudios como apoyar en las instancias privadas de capacitación relacionadas con la actividad de la empresa.
-
-3.- Económico: Ligado directamente con al permanencia en el puesto de trabajo y disminuir depósito.
-  a.- Establecer un sistema de mejora contínuo ya sea por tiempo, por objetivos medibles, por logros o una combinación de todos. Esta ha de ser muy clara y definida.
-  b.- Abrir las instancias de acercamiento de los individuos para representar sus casos particulares.
-
-El presente es un documento en desarrollo y corrección continua. Irá madurando en el camino.
+–0–
